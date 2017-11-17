@@ -1,6 +1,6 @@
 Howto react from scrtatch
 
-npm init
-npm  install react react-dom --save
-npm install webpack webpack-dev-server babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-2 --save-dev
-npm install babel-preset-env --save-dev  (a la place de babel-preset-es2015)
+Very basic template using babel, webpack, babel
+
+npm install
+npm start
